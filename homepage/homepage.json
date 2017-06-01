@@ -19,10 +19,6 @@
 			"listName": "Doing",
 			"card": [
 				{
-					"cardTitle": "Style Cards",
-					"cardDescript": "As a user I want cards to look like cards so that I can see them for what they are"
-				},
-				{
 					"cardTitle": "Make things look nice",
 					"cardDescript": "As a user I want a nice looking app please!"
 				},
@@ -39,6 +35,10 @@
 		{
 			"listName": "Done",
 			"card": [
+				{
+					"cardTitle": "Style Cards",
+					"cardDescript": "As a user I want cards to look like cards so that I can see them for what they are"
+				},
 				{
 					"cardDescript": "As a user I want to drag cards into the correct list",
 					"cardTitle": "Drag Cards"
