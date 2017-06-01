@@ -20,7 +20,7 @@
 			"card": [
 				{
 					"cardTitle": "Style Cards",
-					"cardDescript": "As a user I want cards to look like cards"
+					"cardDescript": "As a user I want cards to look like cards so that I can see them for what they are"
 				},
 				{
 					"cardTitle": "Make things look nice",
