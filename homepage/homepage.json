@@ -29,6 +29,10 @@
 				{
 					"cardTitle": "Tell Scott about it",
 					"cardDescript": "Since he is at my desk I will waste his time"
+				},
+				{
+					"cardTitle": "Style lists",
+					"cardDescript": "As a user I want to have horizontal lists"
 				}
 			]
 		},
@@ -38,10 +42,6 @@
 				{
 					"cardDescript": "As a user I want to drag cards into the correct list",
 					"cardTitle": "Drag Cards"
-				},
-				{
-					"cardTitle": "Style lists",
-					"cardDescript": "As a user I want to have horizontal lists"
 				}
 			]
 		}
