@@ -8,7 +8,12 @@
 	"list": [
 		{
 			"listName": "To Do",
-			"card": []
+			"card": [
+				{
+					"cardTitle": "Show and Tell",
+					"cardDescript": "This is prob worth talking about"
+				}
+			]
 		},
 		{
 			"listName": "Doing",
