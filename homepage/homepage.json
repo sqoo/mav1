@@ -10,7 +10,8 @@
 			"listName": "To Do",
 			"card": [
 				{
-					"cardDescript": "As a user I want to drag cards into the correct list"
+					"cardDescript": "As a user I want to drag cards into the correct list",
+					"cardTitle": "Drag Cards"
 				},
 				{
 					"cardTitle": "Style Cards",
