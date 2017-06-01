@@ -10,26 +10,28 @@
 			"listName": "To Do",
 			"card": [
 				{
-					"cardDescript": "As a user I want to drag cards into the correct list",
-					"cardTitle": "Drag Cards"
-				},
-				{
-					"cardTitle": "Style Cards",
-					"cardDescript": "As a user I want cards to look like cards"
-				},
-				{
 					"cardTitle": "Style lists",
 					"cardDescript": "As a user I want to have horizontal lists"
 				}
 			]
 		},
 		{
-			"listName": "Done",
-			"card": []
+			"listName": "Doing",
+			"card": [
+				{
+					"cardTitle": "Style Cards",
+					"cardDescript": "As a user I want cards to look like cards"
+				}
+			]
 		},
 		{
-			"listName": "Doing",
-			"card": []
+			"listName": "Done",
+			"card": [
+				{
+					"cardDescript": "As a user I want to drag cards into the correct list",
+					"cardTitle": "Drag Cards"
+				}
+			]
 		}
 	]
 }
