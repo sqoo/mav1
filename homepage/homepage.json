@@ -1,7 +1,7 @@
 {
 	"image": "images/photo.jpg",
 	"name": "My First Edit",
-	"description": "gigigigi igbigigActually this is i",
+	"description": "his isT",
 	"twitter": "https://twitter.com/RealGrumpyCat",
 	"facebook": "https://www.facebook.com/TheOfficialGrumpyCat",
 	"wikipedia": "https://en.wikipedia.org/wiki/Grumpy_Cat",
@@ -12,6 +12,10 @@
 				{
 					"cardTitle": "Style lists",
 					"cardDescript": "As a user I want to have horizontal lists"
+				},
+				{
+					"cardTitle": "Make things look nice",
+					"cardDescript": "As a user I want a nice looking app"
 				}
 			]
 		},
@@ -33,5 +37,6 @@
 				}
 			]
 		}
-	]
+	],
+	"Project": "The Main Project"
 }
