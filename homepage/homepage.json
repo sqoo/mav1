@@ -25,10 +25,6 @@
 				{
 					"cardTitle": "Make things look nice",
 					"cardDescript": "As a user I want a nice looking app"
-				},
-				{
-					"cardTitle": "Style lists",
-					"cardDescript": "As a user I want to have horizontal lists"
 				}
 			]
 		},
@@ -38,6 +34,10 @@
 				{
 					"cardDescript": "As a user I want to drag cards into the correct list",
 					"cardTitle": "Drag Cards"
+				},
+				{
+					"cardTitle": "Style lists",
+					"cardDescript": "As a user I want to have horizontal lists"
 				}
 			]
 		}
