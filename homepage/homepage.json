@@ -12,10 +12,6 @@
 				{
 					"cardTitle": "Show and Tell",
 					"cardDescript": "This is prob worth talking about"
-				},
-				{
-					"cardTitle": "Tell Scott about IT",
-					"cardDescript": "balh"
 				}
 			]
 		},
@@ -29,6 +25,10 @@
 				{
 					"cardTitle": "Make things look nice",
 					"cardDescript": "As a user I want a nice looking app"
+				},
+				{
+					"cardTitle": "Tell Scott about IT",
+					"cardDescript": "balh"
 				}
 			]
 		},
