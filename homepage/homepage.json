@@ -26,6 +26,10 @@
 		{
 			"listName": "Done",
 			"card": []
+		},
+		{
+			"listName": "Doing",
+			"card": []
 		}
 	]
 }
