@@ -1,7 +1,7 @@
 {
 	"image": "images/photo.jpg",
 	"name": "My First Edit",
-	"description": "his isT",
+	"description": "This is my kanban boards kanban board!",
 	"twitter": "https://twitter.com/RealGrumpyCat",
 	"facebook": "https://www.facebook.com/TheOfficialGrumpyCat",
 	"wikipedia": "https://en.wikipedia.org/wiki/Grumpy_Cat",
@@ -10,12 +10,8 @@
 			"listName": "To Do",
 			"card": [
 				{
-					"cardTitle": "Style lists",
-					"cardDescript": "As a user I want to have horizontal lists"
-				},
-				{
-					"cardTitle": "Make things look nice",
-					"cardDescript": "As a user I want a nice looking app"
+					"cardTitle": "Show and Tell",
+					"cardDescript": "This is prob worth talking about"
 				}
 			]
 		},
@@ -25,6 +21,14 @@
 				{
 					"cardTitle": "Style Cards",
 					"cardDescript": "As a user I want cards to look like cards"
+				},
+				{
+					"cardTitle": "Make things look nice",
+					"cardDescript": "As a user I want a nice looking app"
+				},
+				{
+					"cardTitle": "Style lists",
+					"cardDescript": "As a user I want to have horizontal lists"
 				}
 			]
 		},
