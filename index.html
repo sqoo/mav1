@@ -7,7 +7,7 @@
 </head>
 <body>
 
-<main mv-app="homepage" mv-storage="https://github.com/sqoo/mav1/homepage" mv-plugins="tinymce">
+<main mv-app="homepage" mv-storage="https://github.com/sqoo/mav1/homepage" mv-plugins="tinymce" mv-autosave="3" >
 
   <h1><span class="logo">Trellish</span> <span property="Project"></span></h1>
   <p property="description" class="tinymce"></p>
@@ -17,9 +17,9 @@
     <li property="list" class="kanList" mv-multiple>
       <h2 property="listName" class="ListName">Loading..</h2>
       <ol>
-        <li property="card" class="kanCard" mv-accepts="card" mv-multiple>
-          <h2 property="cardTitle">Loading...</h2>
-          <span property="cardDescript">Loading...</span>    
+        <li property="card" class="kanCard" mv-accepts="card" mv-multiple mv-mode="edit">
+          <h2 property="cardTitle" mv-mode="edit">Loading...</h2>
+          <span property="cardDescript" mv-mode="edit">Loading...</span>    
         </li>
       </ol>
     </li>
