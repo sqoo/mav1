@@ -2,43 +2,31 @@
 <head>
   <script src="https://get.mavo.io/mavo.js"></script>
   <link rel="stylesheet" href="https://get.mavo.io/mavo.css">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.css">"
-
-  <style>
-    ul li{ list-style-type: none; margin: 3px;}
-    ol li{ list-style-type: none; margin: 3px;}
-    
-    .kanList {color: blue; border: 1px solid red; margin 3px; float: left;}
-    .kanCard {color: gray; border: 1px solid black; margin 3px}
-  </style>
-
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.css">
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
 
-
 <main mv-app="homepage" mv-storage="https://github.com/sqoo/mav1/homepage" mv-plugins="tinymce">
-<h1 property="Project"></h1>
 
-<p property="description" class="tinymce">
-</p>
+  <h1 property="Project"></h1>
+  <p property="description" class="tinymce"></p>
 
-<ul>
-<li property="list" class="kanList" mv-multiple>
-  <h2 property="listName">Loading..</h2>
-  <ol>
-    <li property="card" class="kanCard" mv-accepts="card" mv-multiple>
-      <h2 property="cardTitle">Loading...</h2>
-      <span property="cardDescript">Loading...</span>    
+  <div class="kanBoard">
+    <ul>
+    <li property="list" class="kanList" mv-multiple>
+      <h2 property="listName" class="ListName">Loading..</h2>
+      <ol>
+        <li property="card" class="kanCard" mv-accepts="card" mv-multiple>
+          <h2 property="cardTitle">Loading...</h2>
+          <span property="cardDescript">Loading...</span>    
+        </li>
+      </ol>
     </li>
-  </ol>
-</li>
-</ul> 
-
+    </ul> 
+  </div>
 
 </main>
-
-
-
 
 </body>
 </html>

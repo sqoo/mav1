@@ -1,21 +1,25 @@
+/*basic stuffs*/
+
 h1 {
-	font-family: "Cabin Condensed";
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 	font-size: 24px;
 	font-style: normal;
 	font-variant: normal;
 	font-weight: 500;
 	line-height: 26.4px;
+  color: #ffffff;
 }
-h3 {
-	font-family: "Cabin Condensed";
-	font-size: 14px;
+h2 {
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+	font-size: 18px;
 	font-style: normal;
 	font-variant: normal;
 	font-weight: 500;
 	line-height: 15.4px;
+  padding: 2px;
 }
 p {
-	font-family: "Cabin Condensed";
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 	font-size: 14px;
 	font-style: normal;
 	font-variant: normal;
@@ -23,7 +27,7 @@ p {
 	line-height: 20px;
 }
 blockquote {
-	font-family: "Cabin Condensed";
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 	font-size: 21px;
 	font-style: normal;
 	font-variant: normal;
@@ -31,10 +35,48 @@ blockquote {
 	line-height: 30px;
 }
 pre {
-	font-family: "Cabin Condensed";
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 	font-size: 13px;
 	font-style: normal;
 	font-variant: normal;
 	font-weight: 400;
 	line-height: 18.5714px;
 }
+
+
+ /* card stuffs */ 
+    ul li{ list-style-type: none; margin: 1em; width: 22em;}
+    ol li{ list-style-type: none; margin: 1em; width: 20em;}
+    
+    .kanList {margin: 3px; float: left;}
+    .kanCard {margin: 3px;}
+
+/* pretty stuffs */
+
+  body{
+    background-color: #6666ff;
+    color: #ffffff;
+    padding: 1em;
+  }
+
+  .kanBoard{
+    margin-top: 2em;
+  }
+
+  .kanList {
+    color: gray; 
+    background-color: #eeeeee;
+    border-radius: 5px 5px 5px 5px;
+  }
+
+  .kanCard {
+    color: gray; 
+    background-color: white; 
+    margin: .5em;
+    border-radius: 5px 5px 5px 5px;
+    padding: .5em;
+  }
+
+
+
+  
