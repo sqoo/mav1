@@ -1,7 +1,7 @@
 {
 	"image": "images/photo.jpg",
 	"name": "My First Edit",
-	"description": "This is my kanban boards kanban board!",
+	"description": "This is my kanban boards kanban board! It is made using https://mavo.io/ This is the file that makes it run https://github.com/sqoo/mav1/blob/master/index.html and that is all!",
 	"twitter": "https://twitter.com/RealGrumpyCat",
 	"facebook": "https://www.facebook.com/TheOfficialGrumpyCat",
 	"wikipedia": "https://en.wikipedia.org/wiki/Grumpy_Cat",
